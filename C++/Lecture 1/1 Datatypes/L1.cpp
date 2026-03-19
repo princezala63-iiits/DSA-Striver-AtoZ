@@ -13,7 +13,7 @@ int main()
     long double f; // 10 bytes.
 
     char g; // 1 byte.
-    string h; // 
+    string h; // 1 byte for each character
 
     return 0;
 }
